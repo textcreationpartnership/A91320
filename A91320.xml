@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The countrey-mans complaint. Or A true account of the moneys, given, and lent to the Parliament, since the yeer 1640. By William Pryor of Thurning, in the county of Huntington, his means being but 17 l. 10s. a yeer. Together with his losses, crosses, vexations, and imprisonments, by means of the commitees, justices of the county, Lord Mountague of Boudon, and Parson Wells of Thurning. Who with their murthering practises, have endevored (as much as in them lies) the destruction of the said Pryor. Humbly presented to Parliament for justice; to be relieved from his oppressors.</title>
+            <author>Pryor, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91320</idno>
+            <idno type="STC">Wing P4131</idno>
+            <idno type="STC">Thomason E562_7</idno>
+            <idno type="STC">ESTC R14972</idno>
+            <idno type="EEBO-CITATION">99859773</idno>
+            <idno type="PROQUEST">99859773</idno>
+            <idno type="VID">165228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165228)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The countrey-mans complaint. Or A true account of the moneys, given, and lent to the Parliament, since the yeer 1640. By William Pryor of Thurning, in the county of Huntington, his means being but 17 l. 10s. a yeer. Together with his losses, crosses, vexations, and imprisonments, by means of the commitees, justices of the county, Lord Mountague of Boudon, and Parson Wells of Thurning. Who with their murthering practises, have endevored (as much as in them lies) the destruction of the said Pryor. Humbly presented to Parliament for justice; to be relieved from his oppressors.</title>
+                  <author>Pryor, William.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pryor, William.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165228:1" rendition="simple:additions"/>
+            <p>THE Countrey-mans COMPLAINT.</p>
+            <p>OR A true Account of the Moneys, given, and lent to the PARLIAMENT, ſince the yeer 1640. By
+<hi>William Pryor</hi> of <hi>Thurning,</hi> in the County of <hi>Huntington,</hi> His Means being but 17 <abbr>l.</abbr> 10 <abbr>s.</abbr> a yeer.</p>
+            <p>Together with his Loſſes, Croſſes, Vexations, and Impriſonments, by means of the Commitees, Juſtices of the County, Lord <hi>Mountague</hi> of <hi>Boudon,</hi> and Parſon
+<hi>Wells</hi> of <hi>Thurning.</hi>
+            </p>
+            <p>Who with their Murthering Practiſes, have endevored (as much as in them lies) the deſtruction of the ſaid <hi>Pryor.</hi>
+            </p>
+            <p>Humbly preſented to <hi>Parliament</hi> for Juſtice; to be relieved from his Oppreſſors.</p>
+            <q>
+               <bibl>
+                  <hi>Jere. 21.12.</hi>
+               </bibl>
+               <p>Execute judgment in the morning, and deliver him that u ſpoiled out of the hands of the oppreſſor, leſt my fury go out like fire, and burn that none quench it, becauſe of the evil of your doings.</p>
+            </q>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165228:2"/>
+            <pb n="3" facs="tcp:165228:2"/>
+            <head>A true account of the moneys given, and lent to the Parliament, ſince the yeer 1640. by
+<hi>William Pryor</hi> of <hi>Thurning,</hi> in the County of <hi>Huntington,</hi> together with the loſſes, croſſes, vexations, and impriſonments undergone by the ſaid <hi>William Pryor,</hi> by the means of the Commit<g ref="char:EOLhyphen"/>tees of <hi>Huntington,</hi> by Juſtices of the County; who with their deſtructive practices, have ende<g ref="char:EOLhyphen"/>vored (as much as in them lie) the deſtruction of the ſaid <hi>Pryor,</hi> as will appear by this enſuing Catalogue.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is means is worth by eſtimation, but 17 <abbr>l.</abbr> 10 <abbr>s.</abbr> 
+               <hi>per annum.</hi>
+            </p>
+            <p n="1">1. Lent upon the Propoſitions, in Horſe, Money, and Plate, 6 <abbr>l.</abbr> paid towards Horſes charged 14 <abbr>s.</abbr> 3 <abbr>d.</abbr> paid for the <hi>Scotch</hi> Army 12
+<abbr>s.</abbr> paid for the <hi>Britiſh</hi> Army in <hi>Ireland</hi> 1 <abbr>l.</abbr> 1
+<abbr>s.</abbr> 6 <abbr>d.</abbr> paid for the <hi>Engliſh</hi> Army 16 <abbr>l.</abbr> 1
+<abbr>s.</abbr> 6 <abbr>d.</abbr> paid towards the preſſing and ſetting out of Souldiers; and for maimed Souldiers, Widows, and Orphans, of ſuch as were ſlain in the Parliament ſervice, 7
+<abbr>s.</abbr> 4. <abbr>d.</abbr> paid towards Vo<g ref="char:EOLhyphen"/>luntiers, and Bulworks making 9 <abbr>s.</abbr> paid to the Committees for fines and amercements, though he himſelf appeared with Horſe, and Arms 1 <abbr>l.</abbr> 6 <abbr>s.</abbr> 7 <abbr>d.</abbr> paid towards the maintenance of the Eaſtern Garriſons, for disbanding Foot and Dragoons, and paying them a moneths pay 12
+<abbr>s.</abbr> 6 <abbr>d.</abbr> for reducing of <hi>Newark</hi> 2 <abbr>s.</abbr> towards paying the Kingdoms debts 1 <abbr>l.</abbr> 7 <abbr>s.</abbr> Subſidy 1640 &amp; 1641. 1 <abbr>l.</abbr>
+4 <abbr>s.</abbr> Poll money 3 <abbr>s.</abbr> Contribution
+<pb n="4" facs="tcp:165228:3"/>and Loan for <hi>Ireland</hi> 9 <abbr>s.</abbr> Carriages taken and impreſſed 3 <abbr>s.</abbr>
+            </p>
+            <p n="2">II. Loſſes by the Cavaliers, <hi>viz</hi> Two Horſes worth 18 <abbr>l.</abbr> and a Gelding with Bridles and Saddles, and himſelf taken priſoner, to his damage 8 <abbr>l.</abbr> and a Mare worth 6 <abbr>l.</abbr>
+            </p>
+            <p n="3">III. Towards the raiſing of recrute for the Army at Saint <hi>Ives</hi> 17
+<abbr>l.</abbr> given at the ſaid time three Horſes for the ſervice, worth 20 <abbr>l.</abbr> ſpent upon five Alarms at <hi>Huntington,</hi> 5 <abbr>l.</abbr> ſpent in the ſervice at the Lord Generals firſt going out of <hi>London,</hi> 2 <abbr>l.</abbr> ſpent in ſeting his ſon out of priſon 3 <abbr>l.</abbr>
+            </p>
+            <q>Sufferings by the Committee of Huntington.</q>
+            <p n="4">IV. Had his Arms ſeiſed upon, <hi>viz.</hi> A ſword and Fowling Peece<g ref="char:punc">▪</g> with a Pocket Piſtol (which was none of his) and was forced to redeem them out of the Committees Agents hands, and to return the Piſtol home again, he borrowing it onely to aſſiſt Lieutenant General <hi>Cromwel</hi> againſt <hi>Burley,</hi> and after<g ref="char:EOLhyphen"/>wards, the Committee under pretence of ſending for Cava<g ref="char:EOLhyphen"/>liers Arms, ſent for his; and becauſe the Piſtol was wanting, (being none of his) he going along with them to <hi>Hunting<g ref="char:EOLhyphen"/>ton,</hi> was five days impriſoned by the Committee, for not de<g ref="char:EOLhyphen"/>livering up that (which was not his) to his damage (it being in the midſt of Seed time, and he having no body to follow his buſineſs) in his Crop at Harveſt 10
+<abbr>l.</abbr> beſides his expense in priſon, and in promoting a Petition to the Earl of
+<hi>Man<g ref="char:EOLhyphen"/>cheſter;</hi> notwithſtanding at the ſame time, they left Cavaliers Arms hanging behinde the door unſeiſed upon, although they were told of them.</p>
+            <p n="5">V. After this, he was ſummoned before Mr. <hi>Caſtle,</hi> one of Committee, and Mr.
+<hi>Bernard</hi> of <hi>Huntington,</hi> by Warrant, he appearing, it was demanded of him, Why he would not pay what was due to Mr. <hi>Wells,</hi> Parſon; he anſwered, He owed him nothing; and if the Parſon thought that he owed him any thing, the Law, and the ordinary Courts of Juſtice, were all open, when he ſhould be ready to joyn iſſue with him; to which, the Juſtices replyed, That there was an Ordinance of Parliament to enforce the payment of Tithes; but he denyed that he owed him any thing. To that Mr. <hi>Bernard</hi> an<g ref="char:EOLhyphen"/>ſwered, That Tithes was due by Scripture, inſtancing that
+<pb n="5" facs="tcp:165228:3"/>Scripture, <hi>That thou ſhalt not muzzle the mouth of the Ox that treadeth out the Corn:</hi> To which he replyed, He was none of his Ox, neither did he tred out any of his Corn. Whereupon, the Juſtices deſiſt at preſent, and Parſon <hi>Wells</hi> got a Writ, and arreſted the ſaid <hi>Pryor;</hi> upon which, he offered the com<g ref="char:EOLhyphen"/>mon bayl, which them Bailiff refuſed, ſayjng, They muſt have two Subſidy men bound, or elſe he muſt to priſon; and upon the ſame, carried him away from his buſineſs (Cattle getting to his Reek of Grain, by reaſon of his abſence) to his damage 1 <abbr>l.</abbr> And being drawn away by Cavaliers Bailiffs, in a moſt horrid maner, beating, punching, and dragging him through the dirt to priſon, where he continued fourteen hours, to his damage 1 <abbr>l.</abbr> And procuring two men to be bound, was relea<g ref="char:EOLhyphen"/>ſed, and appeared by his Atturney at the next Term; yet not<g ref="char:EOLhyphen"/>withſtanding his bayl was arreſted in a moſt unjuſt maner, for not appearing upon which, he was forced to go to <hi>London,</hi> in Harveſt, to ſearch the Records, whether there was any neg<g ref="char:EOLhyphen"/>lect in his Atturney, which be found contrary, to his damage 7 <abbr>l.</abbr> After this, the Parſon lets the ſuit fall, and goeth to the Committee for a Warrant to diſtrain; upon which, the two forementioned Juſtices grant him a Warrant contrary to their Oaths, contrary to the Liberty of the Subject, contrary to the 29 Chapter of <hi>Magna Charta</hi> (the
+<hi>Engliſh</hi> mans Birth<g ref="char:EOLhyphen"/>right) to break open any Doors, or Gates, to ſeiſe upon any Goods (as they that came to diſtrain, did declare.)</p>
+            <p>The Bailiffs that came to diſtrain, was <hi>Maſſer</hi> of <hi>Ludding<g ref="char:EOLhyphen"/>ton,</hi> and
+<hi>Wolman</hi> of <hi>Oundle,</hi> one of Major <hi>Butlers</hi> Souldiers.</p>
+            <p>When they firſt came into the yard, they asked for him. It was replyed, He was gone from home; whereupon they ſaid, He did ow Mr. <hi>Wells</hi> money, and they came to diſtrain; and preſently fell to driving away Cattle, and they drove away eight Cows, and Bullocks, worth 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <abbr>l.</abbr> but his wife, with thoſe at home, endevored to reſiſt, ſaying, They came like theeves (ſhe demanding their Warrant, w<hi rend="sup">ch</hi> they refuſed to produce) the aforeſaid <hi>Maſſer</hi> run at her with his ſword, ſwearing he would run her through; upon which, ſhe not ſtirring, he ſtriks her, thruſts her into a ditch, calling her whore, and pre<g ref="char:EOLhyphen"/>ſently
+<pb n="6" facs="tcp:165228:4"/>drove the Cattle out of the County, which they ought not to have done by the Statute, and ſetting Malignants to prize them, and ſold them unto their (and the Parliaments) utter enemies, within a day or two, when as they ſhould have been unfold fifteen days, which was to his damage (by going to <hi>London,</hi> and many other places in Harveſt time. The want of Milk, Butter, and Cheeſe, for his Family (beſides the worth of the Beaſts)
+20 <abbr>l.</abbr>
+            </p>
+            <q>Sufferings by the Lord <hi>Mountague.</hi>
+            </q>
+            <p>Firſt, He demanded Tithes of the ſaid <hi>Pryor</hi> for three Acres of Land, which he hath in the Lord <hi>Mountagues</hi> liberties; he pleaded he owed him none, ſaying, That which he had for<g ref="char:EOLhyphen"/>merly practiſed, was a denying Chriſt to be come in the fleſh; in general, denying the three offices of Chriſt, in particular, againſt three Articles of the National Covenant, and againſt the Law of the Land; all which particulars, he made appear, That his Lordſhip and his Chaplain had little to ſay. More<g ref="char:EOLhyphen"/>over, He told his Lordſhip, if he had offended him he ſhould ſatisfie himſelf out of his Land; telling his Lordſhip, That if he would demand the Free-ſimple of one of his Lands, he would not withſtand him; but for Tithes his Conſcience bound him to withſtand him: Whereupon his Lordſhip was pleaſed to cauſe him to be arreſted forcing him to put in Bond of 40 <abbr>l.</abbr> to appear in perſon at
+<hi>London,</hi> which according to the Law, he could not demand, keeping him four hours in pri<g ref="char:EOLhyphen"/>ſon, while he gave in that Bond, by which they forced him to ſtay all the Term, at
+<hi>London,</hi> at great expences, waiting upon his Lordſhips Declaration, which he did not deliver in that time, it being co his damage 10 <abbr>l.</abbr> And the ſaid <hi>Pryor,</hi> by reaſon of the corruption of the Lawyers, in cleaving to thoſe that have biggeſt purſe, and to dance after great mens pipes, by reaſon of whoſe influenced together with the Law-Mono<g ref="char:EOLhyphen"/>polizers, the poor mans cauſe cannot be heard, nor Lawyers gotten to plead for him, which was his caſe: his Lawyer he got neglected his buſineſs, ſo that his Lordſhip got Judgment a<g ref="char:EOLhyphen"/>gainſt him; which he hearing of, went up to <hi>London</hi> the next Term, and made
+<hi>Affidavit,</hi> and ſo ſtayed Execution, which
+<pb n="7" facs="tcp:165228:4"/>was to his loſs by time and money the value of 7
+<abbr>l.</abbr> And after<g ref="char:EOLhyphen"/>ward, he committed his buſineſs to a Lawyer of <hi>Lincolns</hi> Inn, one Mr. <hi>Foſter,</hi> he being not able to ſtay at <hi>London</hi> to follow his buſineſs, which Lawyer neglected his buſineſs, and ſo his Lordſhip had execution; which he moſt violently, unrea<g ref="char:EOLhyphen"/>ſonably, and unworthily proſecuted againſt him, taking away for one yeers Tithes, more goods then the Free-ſimple of the Land is worth; taking away three Beaſts, worth 15 <abbr>l.</abbr> for one yeers Tithes of that Land, which is worth but (according to the rate of that Land lying by it, even three Acres and a half) 11 <abbr>s.</abbr> 8
+<abbr>d.</abbr> 
+               <hi>per annum.</hi>
+            </p>
+            <p>Neither did his Lordſhip yet ceaſe his murthering, tyranni<g ref="char:EOLhyphen"/>cal practices, towards the ſaid
+<hi>Pryor,</hi> but cauſed his Horſe to be pounded off his own ground by his Tenants, locking them to a poſt up to the Feet-locks in dirt, to deſtroy them, forcing him to reprieve them ſeveral times, not onely to the ſpoiling his Horſes, but hindering him in his buſineſs, in Tilling his Land, to his damage 40 <abbr>l.</abbr> Afterwards, forcing him to try his Title for his own-ground, the which being almoſt brought to a tryal in the Country, his Lordſhip removed it to <hi>London,</hi> on purpoſe to make him to ſpend money, that if poſſible, he might deſtroy him; yet this cruel tyrant doth not reſt here, but cauſeth the ſaid <hi>Pryor</hi> to be arreſted the ſecond time; and leaſt he ſhould finde out an honeſt Lawyer (which is hard to finde) he chooſeth him one himſelf, and forceth him to imploy him (and many other evils) which if they ſhould be mention<g ref="char:EOLhyphen"/>ed, it would be much more labor to relate what the ſaid
+<hi>Pryor</hi> hath ſuffered by this Tyrant, <hi>alias</hi> Lord.</p>
+            <p>I ſhall onely mention one thing more, in relation to the Title of the Land, <hi>viz.</hi> His Lordſhip having Agents abroad, to perſwade men equally concerned with the ſaid
+<hi>Pryor,</hi> not to joyn with him, for his Lordſhip would hot meddle with them, onely he was minded to tire out the ſaid <hi>Pryor,</hi> witneſs Parſon <hi>Wells</hi> his ſpeaking to
+<hi>Thomas Smith</hi> of <hi>Warmington,</hi> and <hi>Maſſer</hi> of <hi>Luddington</hi> to
+<hi>William Collings</hi> of <hi>Thurning.</hi> His Lordſhips tyranny, and injuſtice<g ref="char:punc">▪</g> towards the ſaid <hi>Pryor,</hi> hath, and doth occaſion, and continually incourage Delin<g ref="char:EOLhyphen"/>quents,
+<pb n="8" facs="tcp:165228:5"/>and ill-affected, to Parliament and Army, his Lord<g ref="char:EOLhyphen"/>ſhip ſiding with them, That they make it a matter of nothing to worry his Cattle to death; ſtrike others with Forks, and break their backs. Sometimes they break up his cloſe Hedges, other times his Gates, putting in their Cattle, cutting his Horſe Ropes in the Field, to his intolerable prejudice, and vexation. Theſe with many other, are his daily ſufferings, beſides his
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears he receiveth by his (and the Parliament, and Armies) enemies, telling him, he will be for the Parliament again, they are his good Maſters, how mightily they protect him! other times, if they can take him at an advantage, they drag him in to drink the Kings health: It is impoſſible to reck<g ref="char:EOLhyphen"/>on up his loſſes, croſſes, vexations, and impriſonments, that he hath ſuffered for ſtanding up to maintain the peoples Liber<g ref="char:EOLhyphen"/>ties in Parliament; beſides that, twelve yeers being in the Commiſſaries Courts, for not being ſubject to ſome of their Orders, before this Parliament began, being in continual vex<g ref="char:EOLhyphen"/>ations by the Biſhops Declarations, by Summers, Procters, Informers, and other of that beaſtly vermine, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>GEntle Reader, Thou haſt here preſented unto thee a Catalogue of evils, un<g ref="char:EOLhyphen"/>dergone by the ſaid <hi>William Pryor;</hi> by which it doth appear (that not<g ref="char:EOLhyphen"/>withſtanding the Reformation that is in the Nation, ſince this Parliament) there yet remain great and intolerable oppreſſions, upon ſome particular per<g ref="char:EOLhyphen"/>ſons, who without the Parliaments great care, to protect, and defend, in re<g ref="char:EOLhyphen"/>lieving them (according to their promiſes, being their, and the Kingdoms faith<g ref="char:EOLhyphen"/>ful Friends) they are like to be deſtroyed, not onely by their, and the Parlia<g ref="char:EOLhyphen"/>ments enemies, but by pretended friends, as appeareth by this man, whoſe whole Eſtate was worth by eſtimation, but <hi>17 <abbr>1.</abbr> 10 <abbr>s.</abbr> per anuum,</hi> as aforeſaid: and out of that ſmall Eſtate hath dis<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſt freely by gift and Taxes, <hi>76 <abbr>l.</abbr> 6</hi>
+               <abbr>s.</abbr> 
+               <hi>1
+<abbr>d.</abbr>
+               </hi> and beſides that, hath had unjuſtly taken from him, as he is able to prove, <hi>163 <abbr>l.</abbr> 6 <abbr>s.</abbr> 7 <abbr>d.</abbr>
+               </hi> being in all, the juſt ſum of <hi>239 <abbr>l.</abbr> 12 <abbr>s.</abbr> 8 <abbr>d.</abbr>
+               </hi> which is to the full two thirds of his Eſtate.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
